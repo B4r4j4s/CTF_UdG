@@ -1,6 +1,6 @@
 # CTF_UdG
 
-### Conceptos Basicos
+## Conceptos Basicos
 #### 1. ¿Qué son los sistemas tolerantes a fallas?
 Un sistema tolerante a fallas, como lo dice su nombre, es un sistema que puede soportar fallas sin dejar de funcionar, o un sistema preparado para fallar, 
 cuando intentamos asegurarnos que un sistema sea tolerante a fallas, buscamos puntos únicos de falla y encontramos maneras de añadir redundancia en esos puntos.
@@ -15,10 +15,8 @@ dentro de la relación de fallo, defecto y error, el error es lo que origina un 
 #### 4. ¿Qué es la latencia de un fallo?
  El tiempo que transcurre entre un fallo y la representación de su error
 #### 5. ¿Cuál es la latencia de un error?
-Es el tiempo que transcurre entre un error y un fallo.
-
- 
-### Para leer el documento, [AQUI](https://docs.google.com/document/d/1_8OKN61mIKXfYk3GFOrs-uRX9D1J38tUp6hcpT2WUO8/edit?usp=sharing)
+Es el tiempo que transcurre entre un error y un fallo. 
+_Para leer el documento, [AQUI](https://docs.google.com/document/d/1_8OKN61mIKXfYk3GFOrs-uRX9D1J38tUp6hcpT2WUO8/edit?usp=sharing)_
 
 ## Herramientas para el manejo de Errores
 Las herramientas para el manejo de errores son mas que herramientas creadas para ello son formas de usar las herramientas que ya tienen los lenguajes para idear como validar nuestras entradas y salidas para que los errores que puedan salir de ellos no afecten el programa en general.
