@@ -1,5 +1,9 @@
 # CTF_UdG
 
+- [Conceptos Básicos](#conceptos-basicos)
+- [Herramientas para el Manejo de Errores](#herramientas-para-el-manejo-de-errores)
+- [Ejemplo de Uso](#ejemplo-de-uso)
+
 ## Conceptos Basicos
 #### 1. ¿Qué son los sistemas tolerantes a fallas?
 Un sistema tolerante a fallas, como lo dice su nombre, es un sistema que puede soportar fallas sin dejar de funcionar, o un sistema preparado para fallar, 
