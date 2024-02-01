@@ -132,6 +132,33 @@ console.log('Resultado de la resta:', result2);
 calculator.add('5', 10); // Esto lanzará una excepción Error()
 ```
 Esta clase calculadora puede cachar errores de ejecucion sin la necesidad de usar try catch.
+## Bug Tracing System (BTS)
+
+En el desarrollo de software, la clasificación de defectos es un proceso fundamental que permite identificar, categorizar y abordar problemas que puedan afectar la calidad del producto. Antes de explorar específicamente el Bug Tracing System (BTS), es esencial comprender la importancia de prevenir la introducción inicial de defectos.
+
+**La Prevención Inicial de Defectos:**
+La forma más efectiva de gestionar defectos es prevenir su introducción inicial. En el PSP (Personal Software Process), se adoptan tres enfoques mutuamente compatibles para prevenir defectos. En primer lugar, los ingenieros registran datos sobre cada defecto encontrado y corregido, revisando esta información para identificar causas y realizar cambios en el proceso que eliminen estas causas. Este método aumenta la conciencia de los ingenieros sobre sus errores, los hace más sensibles a las consecuencias y les proporciona datos para evitar cometer los mismos errores en el futuro.
+
+La segunda estrategia de prevención implica el uso de un método y notación de diseño efectivos para producir diseños completos. La comprensión exhaustiva de los ingenieros sobre el diseño resulta en menos errores durante la codificación. La tercera método de prevención de defectos es una consecuencia directa del segundo: con un diseño más detallado, el tiempo de codificación se reduce, lo que a su vez reduce la inyección de defectos.
+
+**Impacto del Buen Diseño:**
+Un buen diseño no solo conduce a diseños de mayor calidad, sino que también ahorra tiempo significativo en la detección de defectos y la codificación en general. Los datos del PSP muestran que durante el diseño, los ingenieros inyectan menos defectos por hora en comparación con la codificación. Un diseño más completo reduce el tiempo de codificación, lo que resulta en una inyección menor de defectos durante esta fase.
+
+### Características Principales
+- **Seguimiento Eficiente:** BTS permite un seguimiento eficiente de los defectos identificados durante el desarrollo del software. Cada problema se registra y asigna a los miembros del equipo responsable de su resolución.
+
+- **Clasificación Detallada:** La herramienta proporciona un sistema de clasificación detallada para los defectos, permitiendo una comprensión profunda de la naturaleza de cada problema.
+
+- **Asignación de Prioridades:** BTS permite asignar prioridades a los defectos, ayudando al equipo a centrarse en los problemas más críticos y urgentes.
+
+- **Historial de Cambios:** Se mantiene un historial de cambios para cada defecto, lo que facilita el seguimiento de las modificaciones realizadas y la comprensión de la evolución del problema.
+
+## ODC y la Prevención de Defectos
+Operational Defect Classification (ODC) se integra con BTS para la clasificación y análisis de defectos operacionales. Este método estructurado ayuda a comprender las causas subyacentes de los defectos y a implementar medidas preventivas de manera efectiva.
+![ODC sections](![image](https://github.com/B4r4j4s/CTF_UdG/assets/147583210/6a1ac7d8-caee-42f2-ae4a-aef4b099d901)
+)
+## Conclusiones
+En conclusión, la prevención inicial de defectos y la adopción de un buen diseño son fundamentales para garantizar la calidad del software. BTS, junto con métodos como ODC, proporciona una plataforma sólida para la gestión proactiva de defectos en el desarrollo de software.
 
 ## ODC reporte
 
