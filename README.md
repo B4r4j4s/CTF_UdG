@@ -3,7 +3,7 @@
 - [Conceptos Básicos](#conceptos-basicos)
 - [Herramientas para el Manejo de Errores](#herramientas-para-el-manejo-de-errores)
 - [Ejemplo de Uso](#ejemplo-de-uso)
-- [ODC reposerte](#ODC)
+- [ODC reporte](#odc-reporte)
 
 ## Conceptos Basicos
 #### 1. ¿Qué son los sistemas tolerantes a fallas?
@@ -132,5 +132,7 @@ console.log('Resultado de la resta:', result2);
 calculator.add('5', 10); // Esto lanzará una excepción Error()
 ```
 Esta clase calculadora puede cachar errores de ejecucion sin la necesidad de usar try catch.
-## ODC
-_Para leer el documento sobre ODC, [AQUI]([https://docs.google.com/document/d/1_8OKN61mIKXfYk3GFOrs-uRX9D1J38tUp6hcpT2WUO8/edit?usp=sharing](https://docs.google.com/document/d/1JvvpkCuiUbNPkuN1908U99rHKEI6l-FVR7_fP7hSuic/edit?usp=sharing)https://docs.google.com/document/d/1JvvpkCuiUbNPkuN1908U99rHKEI6l-FVR7_fP7hSuic/edit?usp=sharing)_
+
+## ODC reporte
+
+##### *Para leer el documento sobre ODC, [AQUI](https://docs.google.com/document/d/1JvvpkCuiUbNPkuN1908U99rHKEI6l-FVR7_fP7hSuic/edit?usp=sharing)*
